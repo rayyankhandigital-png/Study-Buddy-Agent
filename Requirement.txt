@@ -1,4 +1,7 @@
 Streamlit: Streamlit is an open-source Python framework used to create interactive web applications, especially for data science, machine learning, and AI projects. It allows developers to build web interfaces using simple Python code without requiring HTML, CSS, or JavaScript.
+
 Groq: Groq is an AI inference platform that provides fast access to large language models (LLMs). It allows developers to integrate AI-powered features into applications using APIs. In this project, Groq powers the Study Buddy AI assistant, generating quick and intelligent responses to students questions.
+
 LLM (Large language model): LLM (Large Language Model) is an artificial intelligence model trained on large amounts of text data to understand and generate human-like language. It can answer questions, explain concepts, summarize information, and assist with various tasks.
+
 Wikipedia: Wikipedia is a free online encyclopedia that provides information on a wide range of topics. It allows users to search for educational information, explore different subjects, and learn about historical events, people, science, and technology.
